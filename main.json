@@ -1,11 +1,9 @@
 {
-  "data": [
-    {
-      "version": "0.0.1",
-      "releaseDate": "06/06/2018",
-      "descriptionUrl": "Description Markdown file URL",
-      "downloadUrl": "Here goes URL",
-      "askForTheUpdate": true
-    }
-  ]
+  "data": {
+    "version": "0.0.1",
+    "releaseDate": "06/06/2018",
+    "descriptionUrl": "Description Markdown file URL",
+    "downloadUrl": "Here goes URL",
+    "askForTheUpdate": true
+  }
 }
