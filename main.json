@@ -3,7 +3,7 @@
     "version": "0.0.2",
     "releaseDate": "06/06/2018",
     "descriptionUrl": "Description Markdown file URL",
-    "downloadUrl": "Here goes URL",
+    "downloadUrl": "https://raw.githubusercontent.com/zikosichi/stack-version-control/f30a8f16a3c81ac6132026c76a7603dd63233545/Stack-0.0.1.dmg",
     "askForTheUpdate": true
   }
 }
