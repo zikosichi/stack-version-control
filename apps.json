@@ -4,17 +4,7 @@
       "id": "fb",
       "name": "Facebook",
       "url": "https://facebook.com",
-      "icon": "facebook-logo.svg",
-      "injects": [
-        {
-          "type": "js",
-          "path": "facebook/facebook.js"
-        },
-        {
-          "type": "css",
-          "path": "facebook/facebook.css"
-        }
-      ]
+      "icon": "facebook-logo.svg"
     },
     {
       "id": "tw",
