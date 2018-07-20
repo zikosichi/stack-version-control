@@ -1,0 +1,56 @@
+{
+  "apps": [
+    {
+      "id": "fb",
+      "name": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "facebook-logo.svg",
+      "injects": [
+        {
+          "type": "js",
+          "path": "facebook/facebook.js"
+        },
+        {
+          "type": "css",
+          "path": "facebook/facebook.css"
+        }
+      ]
+    },
+    {
+      "id": "tw",
+      "name": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "twitter-logo-silhouette.svg"
+    },
+    {
+      "id": "ig",
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "icon": "instagram-big-logo.svg"
+    },
+    {
+      "id": "li",
+      "name": "Linkedin",
+      "url": "https://linkedin.com",
+      "icon": "linkedin.svg"
+    },
+    {
+      "id": "pi",
+      "name": "Pinterest",
+      "url": "https://pinterest.com/",
+      "icon": "pinterest.svg"
+    },
+    {
+      "id": "dr",
+      "name": "Dribbble",
+      "url": "https://dribbble.com/",
+      "icon": "dribbble.svg"
+    },
+    {
+      "id": "fl",
+      "name": "Flickr",
+      "url": "https://flickr.com/",
+      "icon": "flickr.svg"
+    }
+  ]
+}
