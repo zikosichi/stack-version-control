@@ -48,6 +48,13 @@
       "url": "https://producthunt.com/",
       "icon": "producthunt.svg",
       "iconUrl": "https://raw.githubusercontent.com/zikosichi/stack-version-control/master/icons/producthunt.svg?sanitize=true"
+    },
+    {
+      "id": "rdt",
+      "name": "Reddit",
+      "url": "https://reddit.com/",
+      "icon": "reddit.svg",
+      "iconUrl": "https://raw.githubusercontent.com/zikosichi/stack-version-control/master/icons/reddit.svg?sanitize=true"
     }
   ]
 }
