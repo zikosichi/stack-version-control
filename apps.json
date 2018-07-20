@@ -54,7 +54,7 @@
       "name": "Reddit",
       "url": "https://reddit.com/",
       "icon": "reddit.svg",
-      "isDesktopAgent": false,
+      "isDesktopAgent": true,
       "iconUrl": "https://raw.githubusercontent.com/zikosichi/stack-version-control/master/icons/reddit.svg?sanitize=true"
     }
   ]
