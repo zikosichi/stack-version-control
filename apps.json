@@ -51,6 +51,12 @@
       "name": "Flickr",
       "url": "https://flickr.com/",
       "icon": "flickr.svg"
+    },
+    {
+      "id": "ph",
+      "name": "Producthunt",
+      "url": "https://producthunt.com/",
+      "icon": "producthunt.svg"
     }
   ]
 }
